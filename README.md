@@ -1,7 +1,7 @@
 # Chromify – Real-Time Colorization of Grayscale Photos using CNN  
 ### Bringing Black-and-White Photos to Life with Deep Learning  
 
-Welcome to **Chromify**, a powerful deep learning tool designed to **colorize grayscale images** using **Convolutional Neural Networks (CNNs)**. This project aims to restore color to black-and-white photos, leveraging the power of machine learning to produce **realistic and vibrant results**.  
+Welcome to **Chromify**, a deep learning tool designed to **colorize grayscale images** using **Convolutional Neural Networks (CNNs)**. This project aims to restore color to black-and-white photos, leveraging the power of machine learning to produce **realistic and vibrant results**.  
 
 ---
 
@@ -21,28 +21,29 @@ Welcome to **Chromify**, a powerful deep learning tool designed to **colorize gr
 
 ---
 
-## 📷 Sample Results  
-(*Before → After comparisons showcasing the colorization quality*)  
-
----
-
 ### 📜 License  
 This project is open-source under the **MIT License**. Feel free to contribute!  
 
--- 
 
-Datasets
-1. CIFAR-1OO Dataset
-[Download CIFAR-100 Dataset](https://www.cs.toronto.edu/~kriz/cifar-100-python.tar.gz)
+## 📂 Datasets  
 
-2. Oxford Flowers 102
-[Download Oxford Flowers 102](https://www.robots.ox.ac.uk/~vgg/data/flowers/102/102flowers.tgz)
+Here are the datasets used for training and evaluating **Chromify**:  
 
-3. Landscape color and grayscale images
-[Download CIFAR-100 Dataset](https://www.kaggle.com/datasets/theblackmamba31/landscape-image-colorization/data)
+### 1️⃣ CIFAR-100 Dataset  
+A collection of 60,000 **32x32** color images in 100 classes, commonly used for image classification and colorization tasks.  
+🔗 [Download CIFAR-100 Dataset](https://www.cs.toronto.edu/~kriz/cifar-100-python.tar.gz)  
 
-4. Image Colorization
-[Download CIFAR-100 Dataset](http://press.liacs.nl/mirflickr/mirflickr25k.v3b/mirflickr25k.zip)
+### 2️⃣ Oxford Flowers 102  
+A dataset of **102 flower categories**, with each category containing between 40 and 258 images.  
+🔗 [Download Oxford Flowers 102](https://www.robots.ox.ac.uk/~vgg/data/flowers/102/102flowers.tgz)  
+
+### 3️⃣ Landscape Color and Grayscale Images  
+A **Kaggle dataset** containing landscape images in both **color and grayscale**, useful for training colorization models.  
+🔗 [Download Landscape Images Dataset](https://www.kaggle.com/datasets/theblackmamba31/landscape-image-colorization/data)  
+
+### 4️⃣ Image Colorization  
+A dataset from **MIRFlickr 25K**, which consists of **25,000 images** for various computer vision tasks, including colorization.  
+🔗 [Download MIRFlickr 25K Dataset](http://press.liacs.nl/mirflickr/mirflickr25k.v3b/mirflickr25k.zip)  
 
 
 
