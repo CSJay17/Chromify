@@ -24,6 +24,13 @@ Welcome to **Chromify**, a deep learning tool designed to **colorize grayscale i
 ### 📜 License  
 This project is open-source under the **MIT License**. Feel free to contribute!  
 
+## 📷 Sample Results  
+(*Before → After comparisons showcasing the colorization quality*)  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/CSJay17/Chromify/main/c.jfif" width="300"> ➜
+  <img src="https://raw.githubusercontent.com/CSJay17/Chromify/main/b.jfif" width="300">
+</p>
 
 ## 📂 Datasets  
 
